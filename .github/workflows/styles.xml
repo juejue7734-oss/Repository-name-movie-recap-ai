@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.MovieRecapAI" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#635BFF</item>
+        <item name="android:navigationBarColor">#F8F7FC</item>
+        <item name="android:statusBarColor">#F8F7FC</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
